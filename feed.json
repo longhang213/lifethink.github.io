@@ -10,19 +10,16 @@
     },
     "items": [
         {
-            "id": "https://lifethink.github.io/ce-shi-wen-zhang.html",
-            "url": "https://lifethink.github.io/ce-shi-wen-zhang.html",
-            "title": "测试文章",
-            "summary": "你好呀 这是一篇测试文章",
-            "content_html": "<p>你好呀\n这是一篇测试文章</p>",
+            "id": "https://lifethink.github.io/ce-shi.html",
+            "url": "https://lifethink.github.io/ce-shi.html",
+            "title": "测试",
             "author": {
                 "name": "long"
             },
             "tags": [
-                   "测试"
             ],
-            "date_published": "2024-04-03T13:45:59+08:00",
-            "date_modified": "2024-04-03T13:45:59+08:00"
+            "date_published": "2024-04-03T13:58:34+08:00",
+            "date_modified": "2024-04-03T13:58:34+08:00"
         }
     ]
 }
