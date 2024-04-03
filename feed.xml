@@ -3,12 +3,37 @@
     <title>shiyan</title>
     <link href="https://lifethink.github.io/feed.xml" rel="self" />
     <link href="https://lifethink.github.io" />
-    <updated>2024-04-03T13:58:34+08:00</updated>
+    <updated>2024-04-03T14:01:13+08:00</updated>
     <author>
         <name>long</name>
     </author>
     <id>https://lifethink.github.io</id>
 
+    <entry>
+        <title>你好呀</title>
+        <author>
+            <name>long</name>
+        </author>
+        <link href="https://lifethink.github.io/ni-hao-ya.html"/>
+        <id>https://lifethink.github.io/ni-hao-ya.html</id>
+
+        <updated>2024-04-03T14:01:13+08:00</updated>
+            <summary>
+                <![CDATA[
+                    实验 测试文章
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p> </p>
+<p>实验</p>
+<p> </p>
+<p>测试文章</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>测试</title>
         <author>
